@@ -22,6 +22,9 @@ Analysed 286 student records to explore relationships between length of stay and
 
 ## View My DataCamp Project
 [View Completed SQL Project](https://www.datacamp.com/datalab/w/85c82821-0b09-4126-ac21-33bcc11fd86d/edit#3b05e587-87e3-4bec-9511-ddaae6552ac4)
+## Project Certification
+
+[View My DataCamp Project Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/project/faccb293-5e58-4a97-bd55-70ba880e0777)
 
 ## Project Findings
 The analysis explored differences in wellbeing indicators across student groups and considered limitations arising from small sample sizes.
